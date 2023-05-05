@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-payments/static/css/main.a9c7051d.css",
-    "main.js": "/react-payments/static/js/main.6e0d21bf.js",
+    "main.js": "/react-payments/static/js/main.7afa34b2.js",
     "static/js/787.15f2ece3.chunk.js": "/react-payments/static/js/787.15f2ece3.chunk.js",
     "static/media/logo-shinhan.svg": "/react-payments/static/media/logo-shinhan.84be6bf6f80d24548bf1ffbc9c267bfb.svg",
     "static/media/logo-bc.svg": "/react-payments/static/media/logo-bc.6eb30052b265522c454ced82abcb2077.svg",
@@ -13,11 +13,11 @@
     "static/media/logo-hana.svg": "/react-payments/static/media/logo-hana.911c6e7a8707d74cd4302415dc7699e0.svg",
     "index.html": "/react-payments/index.html",
     "main.a9c7051d.css.map": "/react-payments/static/css/main.a9c7051d.css.map",
-    "main.6e0d21bf.js.map": "/react-payments/static/js/main.6e0d21bf.js.map",
+    "main.7afa34b2.js.map": "/react-payments/static/js/main.7afa34b2.js.map",
     "787.15f2ece3.chunk.js.map": "/react-payments/static/js/787.15f2ece3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a9c7051d.css",
-    "static/js/main.6e0d21bf.js"
+    "static/js/main.7afa34b2.js"
   ]
 }
